@@ -6,6 +6,17 @@ Html, Php, Css, Bootstrap and JavaScript development tools.
 Team-oriented and hardworking with good verbal and written
 communication skills.
 
+## Skills     
+
+• Usability understanding
+• Html, css, JavaScript, Php and Bootstrap
+• Agile methodology
+• Database design
+• Coding and modularization
+Strong verbal and Articulate communication
+• Fast Learner
+• Highly Dependable
+• Innovative
 
 
 

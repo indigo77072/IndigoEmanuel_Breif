@@ -18,6 +18,19 @@ communication skills.
 - Highly Dependable
 - Innovative
 
+## Education
+
+Academy of Health Sciences , Pgcc
+Largo, MD • Expected in 05/2020
+High School Diploma
+
+- Currently have a 3.8 College GPA
+- Currently have a 4.8 High School GPA
+- Middle College
+- Will Graduate with high school diploma and associate's degree in 2020
+- Member of National Honor Society
+- Member of college Honors
+
 
 
 

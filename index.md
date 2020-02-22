@@ -31,8 +31,24 @@ High School Diploma
 - Member of National Honor Society
 - Member of college Honors
 
+## Accomplishments 
+-Created an online voting application as the team leader. The
+application won first place in the National High School
+Computer Competition at BDPA's Annual Technology
+Conference.
 
+- Attended 4 National BDPA(Black Data Processing associates)
+regional website development competitions and won first
+place twice and second place twice
 
+-Active girl scout member for over 9 years
+- National Junior Honor Society Treasurer
+- Member of Middle school Student Government Association
+Earned recommendation from the Department of Human
+Services
+
+-Tutored college students in college level calculus while in high
+school
 
 
 You can use the [editor on GitHub](https://github.com/indigo77072/IndigoEmanuel_Breif/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
